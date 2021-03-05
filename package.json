@@ -4,7 +4,6 @@
   "private": true,
   "license": "MIT",
   "author": "Vitaly Matyah <vitalik.matyah@gmail.com>",
-  "browserslist": "> 0.25%, not dead",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --mode development",
     "build": "cross-env NODE_ENV=production webpack --mode production",
